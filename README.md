@@ -30,5 +30,3 @@ It includes services for authentication, billing, patient management, analytics,
 
 ---
 
-git clone https://github.com/GHOSH2341/healthcare-microservices.git
-cd healthcare-microservices
